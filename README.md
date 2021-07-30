@@ -1,2 +1,2 @@
 # Examen-POO
-sho pe el
+Sa va fie de bine
